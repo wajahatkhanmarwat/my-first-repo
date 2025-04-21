@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "840019290966",
+    "project_id": "wajahat-app",
+    "storage_bucket": "wajahat-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840019290966:android:26fdc28fc8c51c603404f7",
+        "android_client_info": {
+          "package_name": "AndroidManifest.xml"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBapxjKa4PAEp4AKjKY2Kr1nhBpWoDnE98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
